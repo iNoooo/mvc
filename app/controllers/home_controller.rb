@@ -3,4 +3,3 @@ class HomeController < ApplicationController
     @name = params[:my_name]
   end
 end
-end
